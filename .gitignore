@@ -1,0 +1,13 @@
+*.class
+*.log
+**/dependency-reduced-pom.xml
+**/.vscode/
+**/.idea/
+target/
+*.iml
+*.jar
+**/.DS_Store
+input/
+input-head/
+**/node_modules
+**/original_data/

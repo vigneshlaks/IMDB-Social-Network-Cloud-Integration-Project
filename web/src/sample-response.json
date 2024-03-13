@@ -1,0 +1,889 @@
+{
+  "results": [
+    {
+      "primaryTitle": "Movie 1",
+      "actors": [
+        "Actor1",
+        "Actor2",
+        "Actor3"
+      ],
+      "directors": [
+        "Director1"
+      ],
+      "writers": [
+        "Writer1",
+        "Writer2"
+      ],
+      "averageRating": 7.8,
+      "numVotes": 1500
+    },
+    {
+      "primaryTitle": "Movie 2",
+      "actors": [
+        "Actor4",
+        "Actor5",
+        "Actor6"
+      ],
+      "directors": [
+        "Director2"
+      ],
+      "writers": [
+        "Writer3",
+        "Writer4"
+      ],
+      "averageRating": 8.2,
+      "numVotes": 2000
+    },
+    {
+      "primaryTitle": "Movie 3",
+      "actors": [
+        "Actor7",
+        "Actor8",
+        "Actor9"
+      ],
+      "directors": [
+        "Director3"
+      ],
+      "writers": [
+        "Writer5",
+        "Writer6"
+      ],
+      "averageRating": 6.9,
+      "numVotes": 1200
+    },
+    {
+      "primaryTitle": "Movie 4",
+      "actors": [
+        "Actor10",
+        "Actor11",
+        "Actor12"
+      ],
+      "directors": [
+        "Director4"
+      ],
+      "writers": [
+        "Writer7",
+        "Writer8"
+      ],
+      "averageRating": 9.1,
+      "numVotes": 3000
+    },
+    {
+      "primaryTitle": "Movie 5",
+      "actors": [
+        "Actor1",
+        "Actor2",
+        "Actor3"
+      ],
+      "directors": [
+        "Director1"
+      ],
+      "writers": [
+        "Writer1",
+        "Writer2"
+      ],
+      "averageRating": 7.8,
+      "numVotes": 1500
+    },
+    {
+      "primaryTitle": "Movie 6",
+      "actors": [
+        "Actor4",
+        "Actor5",
+        "Actor6"
+      ],
+      "directors": [
+        "Director2"
+      ],
+      "writers": [
+        "Writer3",
+        "Writer4"
+      ],
+      "averageRating": 8.2,
+      "numVotes": 2000
+    },
+    {
+      "primaryTitle": "Movie 7",
+      "actors": [
+        "Actor7",
+        "Actor8",
+        "Actor9"
+      ],
+      "directors": [
+        "Director3"
+      ],
+      "writers": [
+        "Writer5",
+        "Writer6"
+      ],
+      "averageRating": 6.9,
+      "numVotes": 1200
+    },
+    {
+      "primaryTitle": "Movie 8",
+      "actors": [
+        "Actor10",
+        "Actor11",
+        "Actor12"
+      ],
+      "directors": [
+        "Director4"
+      ],
+      "writers": [
+        "Writer7",
+        "Writer8"
+      ],
+      "averageRating": 9.1,
+      "numVotes": 3000
+    },
+    {
+      "primaryTitle": "Movie 9",
+      "actors": [
+        "Actor1",
+        "Actor2",
+        "Actor3"
+      ],
+      "directors": [
+        "Director1"
+      ],
+      "writers": [
+        "Writer1",
+        "Writer2"
+      ],
+      "averageRating": 7.8,
+      "numVotes": 1500
+    },
+    {
+      "primaryTitle": "Movie 10",
+      "actors": [
+        "Actor4",
+        "Actor5",
+        "Actor6"
+      ],
+      "directors": [
+        "Director2"
+      ],
+      "writers": [
+        "Writer3",
+        "Writer4"
+      ],
+      "averageRating": 8.2,
+      "numVotes": 2000
+    },
+    {
+      "primaryTitle": "Movie 11",
+      "actors": [
+        "Actor7",
+        "Actor8",
+        "Actor9"
+      ],
+      "directors": [
+        "Director3"
+      ],
+      "writers": [
+        "Writer5",
+        "Writer6"
+      ],
+      "averageRating": 6.9,
+      "numVotes": 1200
+    },
+    {
+      "primaryTitle": "Movie 12",
+      "actors": [
+        "Actor10",
+        "Actor11",
+        "Actor12"
+      ],
+      "directors": [
+        "Director4"
+      ],
+      "writers": [
+        "Writer7",
+        "Writer8"
+      ],
+      "averageRating": 9.1,
+      "numVotes": 3000
+    },
+    {
+      "primaryTitle": "Movie 13",
+      "actors": [
+        "Actor1",
+        "Actor2",
+        "Actor3"
+      ],
+      "directors": [
+        "Director1"
+      ],
+      "writers": [
+        "Writer1",
+        "Writer2"
+      ],
+      "averageRating": 7.8,
+      "numVotes": 1500
+    },
+    {
+      "primaryTitle": "Movie 14",
+      "actors": [
+        "Actor4",
+        "Actor5",
+        "Actor6"
+      ],
+      "directors": [
+        "Director2"
+      ],
+      "writers": [
+        "Writer3",
+        "Writer4"
+      ],
+      "averageRating": 8.2,
+      "numVotes": 2000
+    },
+    {
+      "primaryTitle": "Movie 15",
+      "actors": [
+        "Actor7",
+        "Actor8",
+        "Actor9"
+      ],
+      "directors": [
+        "Director3"
+      ],
+      "writers": [
+        "Writer5",
+        "Writer6"
+      ],
+      "averageRating": 6.9,
+      "numVotes": 1200
+    },
+    {
+      "primaryTitle": "Movie 16",
+      "actors": [
+        "Actor10",
+        "Actor11",
+        "Actor12"
+      ],
+      "directors": [
+        "Director4"
+      ],
+      "writers": [
+        "Writer7",
+        "Writer8"
+      ],
+      "averageRating": 9.1,
+      "numVotes": 3000
+    },
+    {
+      "primaryTitle": "Movie 17",
+      "actors": [
+        "Actor1",
+        "Actor2",
+        "Actor3"
+      ],
+      "directors": [
+        "Director1"
+      ],
+      "writers": [
+        "Writer1",
+        "Writer2"
+      ],
+      "averageRating": 7.8,
+      "numVotes": 1500
+    },
+    {
+      "primaryTitle": "Movie 18",
+      "actors": [
+        "Actor4",
+        "Actor5",
+        "Actor6"
+      ],
+      "directors": [
+        "Director2"
+      ],
+      "writers": [
+        "Writer3",
+        "Writer4"
+      ],
+      "averageRating": 8.2,
+      "numVotes": 2000
+    },
+    {
+      "primaryTitle": "Movie 19",
+      "actors": [
+        "Actor7",
+        "Actor8",
+        "Actor9"
+      ],
+      "directors": [
+        "Director3"
+      ],
+      "writers": [
+        "Writer5",
+        "Writer6"
+      ],
+      "averageRating": 6.9,
+      "numVotes": 1200
+    },
+    {
+      "primaryTitle": "Movie 20",
+      "actors": [
+        "Actor10",
+        "Actor11",
+        "Actor12"
+      ],
+      "directors": [
+        "Director4"
+      ],
+      "writers": [
+        "Writer7",
+        "Writer8"
+      ],
+      "averageRating": 9.1,
+      "numVotes": 3000
+    },
+    {
+      "primaryTitle": "Movie 21",
+      "actors": [
+        "Actor1",
+        "Actor2",
+        "Actor3"
+      ],
+      "directors": [
+        "Director1"
+      ],
+      "writers": [
+        "Writer1",
+        "Writer2"
+      ],
+      "averageRating": 7.8,
+      "numVotes": 1500
+    },
+    {
+      "primaryTitle": "Movie 22",
+      "actors": [
+        "Actor4",
+        "Actor5",
+        "Actor6"
+      ],
+      "directors": [
+        "Director2"
+      ],
+      "writers": [
+        "Writer3",
+        "Writer4"
+      ],
+      "averageRating": 8.2,
+      "numVotes": 2000
+    },
+    {
+      "primaryTitle": "Movie 23",
+      "actors": [
+        "Actor7",
+        "Actor8",
+        "Actor9"
+      ],
+      "directors": [
+        "Director3"
+      ],
+      "writers": [
+        "Writer5",
+        "Writer6"
+      ],
+      "averageRating": 6.9,
+      "numVotes": 1200
+    },
+    {
+      "primaryTitle": "Movie 24",
+      "actors": [
+        "Actor10",
+        "Actor11",
+        "Actor12"
+      ],
+      "directors": [
+        "Director4"
+      ],
+      "writers": [
+        "Writer7",
+        "Writer8"
+      ],
+      "averageRating": 9.1,
+      "numVotes": 3000
+    },
+    {
+      "primaryTitle": "Movie 25",
+      "actors": [
+        "Actor1",
+        "Actor2",
+        "Actor3"
+      ],
+      "directors": [
+        "Director1"
+      ],
+      "writers": [
+        "Writer1",
+        "Writer2"
+      ],
+      "averageRating": 7.8,
+      "numVotes": 1500
+    },
+    {
+      "primaryTitle": "Movie 26",
+      "actors": [
+        "Actor4",
+        "Actor5",
+        "Actor6"
+      ],
+      "directors": [
+        "Director2"
+      ],
+      "writers": [
+        "Writer3",
+        "Writer4"
+      ],
+      "averageRating": 8.2,
+      "numVotes": 2000
+    },
+    {
+      "primaryTitle": "Movie 27",
+      "actors": [
+        "Actor7",
+        "Actor8",
+        "Actor9"
+      ],
+      "directors": [
+        "Director3"
+      ],
+      "writers": [
+        "Writer5",
+        "Writer6"
+      ],
+      "averageRating": 6.9,
+      "numVotes": 1200
+    },
+    {
+      "primaryTitle": "Movie 28",
+      "actors": [
+        "Actor10",
+        "Actor11",
+        "Actor12"
+      ],
+      "directors": [
+        "Director4"
+      ],
+      "writers": [
+        "Writer7",
+        "Writer8"
+      ],
+      "averageRating": 9.1,
+      "numVotes": 3000
+    },
+    {
+      "primaryTitle": "Movie 29",
+      "actors": [
+        "Actor1",
+        "Actor2",
+        "Actor3"
+      ],
+      "directors": [
+        "Director1"
+      ],
+      "writers": [
+        "Writer1",
+        "Writer2"
+      ],
+      "averageRating": 7.8,
+      "numVotes": 1500
+    },
+    {
+      "primaryTitle": "Movie 30",
+      "actors": [
+        "Actor4",
+        "Actor5",
+        "Actor6"
+      ],
+      "directors": [
+        "Director2"
+      ],
+      "writers": [
+        "Writer3",
+        "Writer4"
+      ],
+      "averageRating": 8.2,
+      "numVotes": 2000
+    },
+    {
+      "primaryTitle": "Movie 31",
+      "actors": [
+        "Actor7",
+        "Actor8",
+        "Actor9"
+      ],
+      "directors": [
+        "Director3"
+      ],
+      "writers": [
+        "Writer5",
+        "Writer6"
+      ],
+      "averageRating": 6.9,
+      "numVotes": 1200
+    },
+    {
+      "primaryTitle": "Movie 32",
+      "actors": [
+        "Actor10",
+        "Actor11",
+        "Actor12"
+      ],
+      "directors": [
+        "Director4"
+      ],
+      "writers": [
+        "Writer7",
+        "Writer8"
+      ],
+      "averageRating": 9.1,
+      "numVotes": 3000
+    },
+    {
+      "primaryTitle": "Movie 33",
+      "actors": [
+        "Actor1",
+        "Actor2",
+        "Actor3"
+      ],
+      "directors": [
+        "Director1"
+      ],
+      "writers": [
+        "Writer1",
+        "Writer2"
+      ],
+      "averageRating": 7.8,
+      "numVotes": 1500
+    },
+    {
+      "primaryTitle": "Movie 34",
+      "actors": [
+        "Actor4",
+        "Actor5",
+        "Actor6"
+      ],
+      "directors": [
+        "Director2"
+      ],
+      "writers": [
+        "Writer3",
+        "Writer4"
+      ],
+      "averageRating": 8.2,
+      "numVotes": 2000
+    },
+    {
+      "primaryTitle": "Movie 35",
+      "actors": [
+        "Actor7",
+        "Actor8",
+        "Actor9"
+      ],
+      "directors": [
+        "Director3"
+      ],
+      "writers": [
+        "Writer5",
+        "Writer6"
+      ],
+      "averageRating": 6.9,
+      "numVotes": 1200
+    },
+    {
+      "primaryTitle": "Movie 36",
+      "actors": [
+        "Actor10",
+        "Actor11",
+        "Actor12"
+      ],
+      "directors": [
+        "Director4"
+      ],
+      "writers": [
+        "Writer7",
+        "Writer8"
+      ],
+      "averageRating": 9.1,
+      "numVotes": 3000
+    },
+    {
+      "primaryTitle": "Movie 37",
+      "actors": [
+        "Actor1",
+        "Actor2",
+        "Actor3"
+      ],
+      "directors": [
+        "Director1"
+      ],
+      "writers": [
+        "Writer1",
+        "Writer2"
+      ],
+      "averageRating": 7.8,
+      "numVotes": 1500
+    },
+    {
+      "primaryTitle": "Movie 38",
+      "actors": [
+        "Actor4",
+        "Actor5",
+        "Actor6"
+      ],
+      "directors": [
+        "Director2"
+      ],
+      "writers": [
+        "Writer3",
+        "Writer4"
+      ],
+      "averageRating": 8.2,
+      "numVotes": 2000
+    },
+    {
+      "primaryTitle": "Movie 39",
+      "actors": [
+        "Actor7",
+        "Actor8",
+        "Actor9"
+      ],
+      "directors": [
+        "Director3"
+      ],
+      "writers": [
+        "Writer5",
+        "Writer6"
+      ],
+      "averageRating": 6.9,
+      "numVotes": 1200
+    },
+    {
+      "primaryTitle": "Movie 40",
+      "actors": [
+        "Actor10",
+        "Actor11",
+        "Actor12"
+      ],
+      "directors": [
+        "Director4"
+      ],
+      "writers": [
+        "Writer7",
+        "Writer8"
+      ],
+      "averageRating": 9.1,
+      "numVotes": 3000
+    },
+    {
+      "primaryTitle": "Movie 41",
+      "actors": [
+        "Actor1",
+        "Actor2",
+        "Actor3"
+      ],
+      "directors": [
+        "Director1"
+      ],
+      "writers": [
+        "Writer1",
+        "Writer2"
+      ],
+      "averageRating": 7.8,
+      "numVotes": 1500
+    },
+    {
+      "primaryTitle": "Movie 42",
+      "actors": [
+        "Actor4",
+        "Actor5",
+        "Actor6"
+      ],
+      "directors": [
+        "Director2"
+      ],
+      "writers": [
+        "Writer3",
+        "Writer4"
+      ],
+      "averageRating": 8.2,
+      "numVotes": 2000
+    },
+    {
+      "primaryTitle": "Movie 43",
+      "actors": [
+        "Actor7",
+        "Actor8",
+        "Actor9"
+      ],
+      "directors": [
+        "Director3"
+      ],
+      "writers": [
+        "Writer5",
+        "Writer6"
+      ],
+      "averageRating": 6.9,
+      "numVotes": 1200
+    },
+    {
+      "primaryTitle": "Movie 44",
+      "actors": [
+        "Actor10",
+        "Actor11",
+        "Actor12"
+      ],
+      "directors": [
+        "Director4"
+      ],
+      "writers": [
+        "Writer7",
+        "Writer8"
+      ],
+      "averageRating": 9.1,
+      "numVotes": 3000
+    },
+    {
+      "primaryTitle": "Movie 45",
+      "actors": [
+        "Actor1",
+        "Actor2",
+        "Actor3"
+      ],
+      "directors": [
+        "Director1"
+      ],
+      "writers": [
+        "Writer1",
+        "Writer2"
+      ],
+      "averageRating": 7.8,
+      "numVotes": 1500
+    },
+    {
+      "primaryTitle": "Movie 46",
+      "actors": [
+        "Actor4",
+        "Actor5",
+        "Actor6"
+      ],
+      "directors": [
+        "Director2"
+      ],
+      "writers": [
+        "Writer3",
+        "Writer4"
+      ],
+      "averageRating": 8.2,
+      "numVotes": 2000
+    },
+    {
+      "primaryTitle": "Movie 47",
+      "actors": [
+        "Actor7",
+        "Actor8",
+        "Actor9"
+      ],
+      "directors": [
+        "Director3"
+      ],
+      "writers": [
+        "Writer5",
+        "Writer6"
+      ],
+      "averageRating": 6.9,
+      "numVotes": 1200
+    },
+    {
+      "primaryTitle": "Movie 48",
+      "actors": [
+        "Actor10",
+        "Actor11",
+        "Actor12"
+      ],
+      "directors": [
+        "Director4"
+      ],
+      "writers": [
+        "Writer7",
+        "Writer8"
+      ],
+      "averageRating": 9.1,
+      "numVotes": 3000
+    },
+    {
+      "primaryTitle": "Movie 49",
+      "actors": [
+        "Actor1",
+        "Actor2",
+        "Actor3"
+      ],
+      "directors": [
+        "Director1"
+      ],
+      "writers": [
+        "Writer1",
+        "Writer2"
+      ],
+      "averageRating": 7.8,
+      "numVotes": 1500
+    },
+    {
+      "primaryTitle": "Movie 50",
+      "actors": [
+        "Actor4",
+        "Actor5",
+        "Actor6"
+      ],
+      "directors": [
+        "Director2"
+      ],
+      "writers": [
+        "Writer3",
+        "Writer4"
+      ],
+      "averageRating": 8.2,
+      "numVotes": 2000
+    },
+    {
+      "primaryTitle": "Movie 51",
+      "actors": [
+        "Actor7",
+        "Actor8",
+        "Actor9"
+      ],
+      "directors": [
+        "Director3"
+      ],
+      "writers": [
+        "Writer5",
+        "Writer6"
+      ],
+      "averageRating": 6.9,
+      "numVotes": 1200
+    },
+    {
+      "primaryTitle": "Movie 52",
+      "actors": [
+        "Actor10",
+        "Actor11",
+        "Actor12"
+      ],
+      "directors": [
+        "Director4"
+      ],
+      "writers": [
+        "Writer7",
+        "Writer8"
+      ],
+      "averageRating": 9.1,
+      "numVotes": 3000
+    }
+  ],
+  "numResults": 52
+}

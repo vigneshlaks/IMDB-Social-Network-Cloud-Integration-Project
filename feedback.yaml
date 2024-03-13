@@ -1,0 +1,33 @@
+## HW2MS2 Reflection
+
+full_name: "Vignesh Lakshmanan"  # Please fill in your full name
+penn_email: "vigneshl@seas.upenn.edu"  # Please fill in your Penn email
+
+# List the features you implemented or write "Entire assignment"
+features_implemented: "Entire assignment"
+
+# List any extra-credit tasks completed
+ec_implemented: "Extra Credit: Non-integer page (1/1)
+Extra Credit: Negative page (1/1)"
+
+# Time Investment
+time_investment:
+  HW2MS2-RC: 10  # Hours spent on HW2MS2 regular credit
+  HW2MS2-EC: 2  # Hours spent on HW2MS2 extra credit
+
+
+# What you liked
+feedback_liked: |
+  I liked the fact that we were able to use the same code from HW2MS1 and build upon it. This made the assignment much easier to complete. I also liked the fact that we were able to use the same test cases from HW2MS1 and build upon them. This made it easier to test the code and make sure that it was working properly.
+  
+
+# What you disliked and suggestions for improvement
+feedback_disliked: |
+  I think the autograder is buggy and doesn't always work. This assignment was definitely better than previous with respect to quality though the bar is not that high.
+  
+
+# Academic Integrity
+copied_code: false  # Set to true if you copied any code from the Internet or classmates
+copied_code_details: ""  # If copied_code is true, specify the source
+collaborated_with_others: false  # Set to true if you collaborated with anyone on this assignment
+collaborated_with_others_details: ""  # If collaborated_with_others is true, specify with whom
